@@ -329,7 +329,7 @@ body {
 .html.credits,
 .html.settings,
 .html.welcome {
-  margin-top: 50px
+  margin-top: 0px
 }
 
 .on-off {
@@ -694,7 +694,6 @@ body {
 }
 
 .profile {
-  margin-top: 40px
 }
 
 .profile .photo {
